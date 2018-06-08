@@ -14,9 +14,13 @@ If you can't be bothered, here are the Basics in a Nutshell:
 2) The Users (you) are granted access to the files, so they can repair it, modify it and improve it. 
 3) You are free to release your modified version of my product. 
 4) If you base your design on another person's work, it is good courtesy to give them a shoutout in your documentation/code. 
-5) Products based on an OSHW design should also be OSHW products. Releasing it under commercial license is not ok. 
+5) Products based on an OSHW design should also be OSHW products. Releasing it under private license is not accepted. 
 6) A design based on another is fair game, however a complete copy is, while not illegal, highly frowned upon. 
 Which sums up the basic spirit of the Open Source Hardware Community: Be nice to the others, and they will be nice to you. 
+
+## Introduction
+
+//
 
 ## Gerber Files
 
@@ -39,4 +43,9 @@ I design my boards with Altium 16. Eagle files, as well as for Open Source Progr
 ## Random Notes (the fine print)
 
 Some random facts you should consider:
-* Although this is an Open Source Project, 
+* Although this is an Open Source Project, this does not apply to every aspect of the project:
+    * The **Grand Duchial Crown Logo** ("Made in Luxembourg") is protected by Luxembourgish legislation and may only be on products made in Luxembourg. 
+    * The **Gear Logo** is the Logo of the Open Source Hardware movement and should not be present on Private Source Hardware. 
+    * The **Lion Head Logo** is technically not copyrighted, but I use it on all my projects as well as on many internet platforms. Please don't use it. 
+* The **Bill of Materials** applies to the current state of design and might not fit in with your version. If you have an older version, you have to refer to the **part spec**, but there will be no part numbers in those.  
+You will have to select appropriate parts at your discretion. 
