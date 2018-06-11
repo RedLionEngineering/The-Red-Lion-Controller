@@ -1,3 +1,5 @@
+### Version 1.0
+
 Here you will find all the PCB files for Version 1.0, sorted by PCB revisions.  
 If there is a folder that does not contain all the necessary PCB files, the PCB has not been updated in the revision. 
 In that case, the board from the previous revision is being used. 
