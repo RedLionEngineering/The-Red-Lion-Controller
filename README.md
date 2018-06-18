@@ -28,12 +28,15 @@ There is currently 1 version of the Red Lion available, with more to come in the
 #### The Red Lion Pro Controller  
 The original version of the Red Lion family and the Flagship of the line. This is the full-featured model, coming with 14 resistor cards, adjustable brake with a full brake switch and adjustable sensitivity with two stages of reduction available. It features a handbrake on the handle, an optional temperature sensor for the power transistor and a voltage readout, as well as 6 status LEDs and.  
 The Red Lion Pro features a three line input protection as well as the signature Touch Brake.  
+#### The Red Lion Standard Controller  
+The Red Lion Standard is the core model of the Red Lion range, with the full specs of the Red Lion Pro model, but on a smaller footprint and with a reduced featureset. Leaving out the Handbrake and the Reduction features makes this version compatible with limiting regulations, while still retaining the capability of the Pro model. 
 #### The Red Lion Light Controller
-The smallest version of the Red Lion Controllers, The Red Lion Light Controller, provides sensitivity and brake adjustment, as well as the exchangeable resistor cards. 
+The smallest version of the Red Lion Controllers, The Red Lion Light Controller, provides sensitivity and brake adjustment, as well as the exchangeable resistor cards. Due to form factor limitations, the current handling capability is reduced compared to the bigger versions; in addition to that, it does not have a voltage readout. The PCB's are designed to fit the entire controller into the handpiece. The Red Lion Light is geared more towards beginners and amateurs, wanting to upgrade their rig.  
 
 ## Gerber Files
 
 The folder "Gerber Files" contains files to all the PCBs, exported in the standardised Gerber file format. Those files are accepted by most PCB manufacturers around the world. If you have a board failure and desire to get a replacement manufactured yourself, these are the files you have to send in. Do pay attention to get the correct version.  
+**Note:** Be advised that not every version of the boards is exported as Gerber file. If you cannot find your board, you may have to      download the PCB file and export it yourself. Note also that many PCB manufacturers will accept Altium Files.  
 However, be advised that **a)** most manufacturers require a minimum quantity to be ordered and **b)** I will usually have a surplus board available to ship to you.  
 Some manufacturing notices:
 * The PCBs are currently manufactured by [PCBWay](https://www.pcbway.com/) (not an endorsement)
