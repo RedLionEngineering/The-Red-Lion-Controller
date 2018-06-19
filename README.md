@@ -33,6 +33,15 @@ The Red Lion Standard is the core model of the Red Lion range, with the full spe
 #### The Red Lion Light Controller
 The smallest version of the Red Lion Controllers, The Red Lion Light Controller, provides sensitivity and brake adjustment, as well as the exchangeable resistor cards. Due to form factor limitations, the current handling capability is reduced compared to the bigger versions; in addition to that, it does not have a voltage readout. The PCB's are designed to fit the entire controller into the handpiece. The Red Lion Light is geared more towards beginners and amateurs, wanting to upgrade their rig.  
 
+## Schematic Files
+
+The folder "Schematic Files" contains all the schematics of the most recent version as Altium 16 files. In addition to that, all the previous versions a pdf file is available. 
+
+## PCB Files
+
+The folder "PCB Files" contains all the required PCB files of the most recent version. In addition, a version history of the more important boards can also be found in the specific folder.  
+I design my boards with Altium 16. Eagle files, as well as for Open Source Programs such as KiCAD, are not available.  
+
 ## Gerber Files
 
 The folder "Gerber Files" contains files to all the PCBs, exported in the standardised Gerber file format. Those files are accepted by most PCB manufacturers around the world. If you have a board failure and desire to get a replacement manufactured yourself, these are the files you have to send in. Do pay attention to get the correct version.  
@@ -47,10 +56,13 @@ Some manufacturing notices:
 * All boards have an immersion gold finish, except for the wiper board, which must be hard gold plated
 * All boards are 1oz/35u copper thickness, except for the control brick, which must have at least 2oz/70u copper thickness
 
-## PCB Files
+## Code Files
 
-The folder "PCB Files" contains all the required PCB files of the most recent version. In addition, a version history of the more important boards can also be found in the specific folder.  
-I design my boards with Altium 16. Eagle files, as well as for Open Source Programs such as KiCAD, are not available. 
+The folder "Code Files" contains all the code files for the different logic boards and microcontrollers. The microcontroller may loose the program for different reasons or show incrrect behaviour. In this case it gets necessary to reflash your microcontroller.  
+The code files are written in C++ using the Arduino IDE and the Arduino headers, and the code is programmed with the [ATtinyCore by Spence Konde](github.com/SpenceKonde/ATTinyCore).  
+To reflash your microcontroller, you will need an Atmel type ISP programmer of some description.  
+Open the file in your Arduino IDE, set up your programmer and connect your logic board. **Watch the pinout.**  
+Select "Upload using programmer". If you still experience problems, try to reset the fuses. Read how in the instructions of Spence Konde's Core. The fuse settings are described in the comment before the code. **Make sure you get the correct code version for your board.**  
 
 ## Random Notes (the fine print)
 
