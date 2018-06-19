@@ -18,6 +18,7 @@ If you can't be bothered, here are the Basics in a Nutshell:
 6) A design based on another is fair game, however a complete copy is, while not illegal, highly frowned upon.  
 
 Which sums up the basic spirit of the Open Source Hardware Community: Be nice to the others, and they will be nice to you.  
+  
 (Disclaimer: If you know about OSHW, this was not for you. I would never assume *you* don't know this. These products are targeted to a community that traditionnally responds not very well to the open source spirit. So don't get mad, this was never meant for you; because we both know you know, but other people don't.)
 
 ## Introduction
