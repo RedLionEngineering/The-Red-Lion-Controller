@@ -1,13 +1,13 @@
-### File list:  
+## File list:  
 
-#### Contained in this Revision:  
+### Contained in this Revision:  
 
 * BaseBoard
 * ControlBrick2_0
 * ControlBrickFaceplate
 * ControlBrickRiser
 
-#### Find in the "Shared Boards" Folder:
+### Find in the "Shared Boards" Folder:
 
 * Holder1_0
 * ResistorCard32.5
@@ -25,6 +25,6 @@
 * ResistorCardAny
 * Wiper
 
-#### Find in the previous revisions:
+### Find in the previous revisions:
 
 This is the very first revision. 
