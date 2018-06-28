@@ -74,4 +74,14 @@ Some random facts you should consider:
     * The **Gear Logo** is the Logo of the Open Source Hardware movement and should not be present on Private Source Hardware. 
     * The **Lion Head Logo** is technically not copyrighted, but I use it on all my projects as well as on many internet platforms. Please don't use it. 
 * The **Bill of Materials** applies to the current state of design and might not fit in with your version. If you have an older version, you have to refer to the **part spec**, but there will be no part numbers in those.  
-You will have to select appropriate parts at your discretion. 
+You will have to select appropriate parts at your discretion.
+
+#### Acknowledgements
+
+The Red Lion Controllers are programmed using the free [Arduino](https://www.arduino.cc/) IDE and programming libraries.  
+The programming of the microcontrollers is done with the help of [Spence Konde's ATtinyCore](github.com/SpenceKonde/ATTinyCore), which happens to be reliably awesome. Thank you, dude!  
+**That other thing**  
+It has been brought up on several occasions that the Red Lion Pro would share a number of similarities with the Kopriva Pro Controller MK2. Some people have suggested that it may be a copy of the circuit. **This is not the case.**  
+The only thing that the two controllers have in common is the resistor cards, which was done for prototyping reasons, as well as for backwards compatibility. If you own a Red Lion Version 1.x and a Kopriva controller, your resistor cards are fully compatible. There are also a shared number of features between the Red Lion Pro and the Kopriva Pro. These features have been requested during prototyping by Kopriva Pro users.  
+The truth of it is that there are only so many ways to design a transistor controller. But the Red Lion Cotroller has been designed from the ground up.  
+**Nevertheless,** I would like to give a shoutout to the late Fritz Kopriva, because his controller (as well as the hassle I had with getting it repaired after his passing) inspired me to design my own controller. 
