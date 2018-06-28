@@ -24,7 +24,7 @@ Which sums up the basic spirit of the Open Source Hardware Community: Be nice to
 ## Introduction
 
 The Red Lion Controllers are a family of advanced feature, positive control, negative common, transistor operated slotcar controllers. They are meant for advanced drivers and large scale tracks. They provide better control and more options and settings than the classic resitive controllers.  
-All Red Lion Controllers feature exchangeable resistor cards and the signature Touch Brake feature. The Touch Brake is an relay-activated brake circuit that operates separately from the control circuit to provide an immediate reaction to the slightest trigger input.  
+All Red Lion Controllers feature exchangeable resistor cards and the signature Touch Brake feature. The Touch Brake is a relay-activated brake circuit that operates separately from the control circuit to provide an immediate reaction to the slightest trigger input.  
 The Red Lion Pro is wired for three-wire tracks following the Parma International Standard.  
 There is currently 1 version of the Red Lion available, with more to come in the future.  
 #### The Red Lion Pro Controller  
