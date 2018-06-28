@@ -6,6 +6,7 @@
 * ControlBrick2_0
 * ControlBrickFaceplate
 * ControlBrickRiser
+* Wiper
 
 ### Find in the "Shared Boards" Folder:
 
@@ -23,7 +24,6 @@
 * ResistorCard187.5
 * ResistorCard205
 * ResistorCardAny
-* Wiper
 
 ### Find in the previous revisions:
 
