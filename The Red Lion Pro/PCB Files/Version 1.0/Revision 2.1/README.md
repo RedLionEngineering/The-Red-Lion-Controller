@@ -2,6 +2,7 @@
 
 ### Contained in this Revision:  
 
+* ControlBrick2_1
 * ControlBrickLogic2_1
 * Handle2_1
 
